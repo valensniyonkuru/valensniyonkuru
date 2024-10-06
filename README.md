@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Niyonkuru Valens,<br> a student at the American University of Central Asia (AUCA) and a software development intern at Rwanda Revenue Authority (RRA).<br> Currently, I’m working on a 6-week IoT project on air pollution at Carnegie Mellon University,<br> combining my passion for technology and environmental sustainability.
+I’m Niyonkuru Valens,<br> a student at the Adventist University of Central AFrica (AUCA) and a software development intern at Rwanda Revenue Authority (RRA).<br> Currently, I’m working on a 6-week IoT project on air pollution at Carnegie Mellon University,<br> combining my passion for technology and environmental sustainability.
 
 
 ## 🌐 Socials:
